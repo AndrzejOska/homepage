@@ -1,0 +1,1 @@
+alert('Siemanko. Powodzenia w nauce. :)')
